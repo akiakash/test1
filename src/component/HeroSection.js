@@ -17,7 +17,7 @@ function HeroSection() {
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'>
-          BOOK NOW
+          BOOK NOW akash
         </Button>     
         </div>
         <img className='image1' src='image1.png' alt=''></img>     
